@@ -11,8 +11,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Single File Component" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -24,7 +24,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/parfumapp/src/assets/photos" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Deniz\Desktop\Parfum\parfumapp\src\assets\photos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Deniz\Desktop\Parfum\parfumapp\src\assets\photos" />
+      <recent name="C:\Users\Deniz\Desktop\Parfum\parfumapp\src\assets\css" />
+      <recent name="C:\Users\Deniz\Desktop\Parfum\parfumapp\src\assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,7 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1565783810303</updated>
       <workItem from="1565783811586" duration="17347000" />
-      <workItem from="1565851766794" duration="23996000" />
+      <workItem from="1565851766794" duration="24982000" />
+      <workItem from="1565937704861" duration="11822000" />
+      <workItem from="1565963791719" duration="1938000" />
+      <workItem from="1566120967912" duration="5292000" />
+      <workItem from="1566208315711" duration="9389000" />
+      <workItem from="1566291863942" duration="898000" />
+      <workItem from="1566297698231" duration="20416000" />
+      <workItem from="1566387409101" duration="415000" />
     </task>
     <servers />
   </component>
@@ -61,7 +78,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
